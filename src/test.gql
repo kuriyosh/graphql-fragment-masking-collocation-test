@@ -1,0 +1,9 @@
+query Test {
+  allFilms {
+    edges {
+      node {
+        ...TestData
+      }
+    }
+  }
+}

@@ -1,0 +1,4 @@
+fragment TestData on Film {
+  title
+  created
+}
